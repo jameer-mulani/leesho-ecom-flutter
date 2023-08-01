@@ -3,4 +3,5 @@
 Simple Fashion ecommerce app
 
 ### See:
-![](/raw/app_play_demo.gif)
+<img src="/raw/app_play_demo.gif"  width="300" height="600">
+
